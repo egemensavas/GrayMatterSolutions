@@ -1,0 +1,10 @@
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.FormMain.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.Properties.Resources.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csproj.GenerateResource.Cache
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csproj.CoreCompileInputs.cache
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.exe.config
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Gather IMDB Info.csproj.GenerateResource.Cache
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\AssemblyIMDB.exe.config
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\AssemblyIMDB.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\AssemblyIMDB.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\NamespaceIMDB.Properties.Resources.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\AssemblyIMDB.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\AssemblyIMDB.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\NamespaceIMDB.FormMain.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Gather IMDB Info.csproj.CoreCompileInputs.cache

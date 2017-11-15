@@ -1,0 +1,8 @@
+c:\users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Read_Website_Content.Properties.Resources.resources
+c:\users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Read Website Content.csproj.GenerateResource.Cache
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Read_Website_Content.IMDBExporter.resources
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\Read_Website_Content_As.exe.config
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\Read_Website_Content_As.exe
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\bin\Debug\Read_Website_Content_As.pdb
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Read_Website_Content_As.exe
+C:\Users\egeme\documents\visual studio 2017\Projects\ReadWebsiteContent\Read Website Content\obj\Debug\Read_Website_Content_As.pdb

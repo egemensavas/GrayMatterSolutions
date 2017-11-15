@@ -1,0 +1,10 @@
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\NamespaceIMDB.FormMain.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.Properties.Resources.resources
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.csproj.GenerateResource.Cache
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\bin\Debug\SerachIMDBTitle.exe.config
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\bin\Debug\SerachIMDBTitle.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\bin\Debug\SerachIMDBTitle.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.exe
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.pdb
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.csproj.CoreCompileInputs.cache
+C:\Users\egeme\Documents\Visual Studio 2017\Projects\SerachIMDBTitle\obj\Debug\SerachIMDBTitle.csprojResolveAssemblyReference.cache
