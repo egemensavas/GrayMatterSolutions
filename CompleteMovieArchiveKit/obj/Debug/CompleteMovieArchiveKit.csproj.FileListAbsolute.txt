@@ -8,3 +8,13 @@ C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\Complete
 C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.exe
 C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.pdb
 C:\Users\egeme\Documents\Visual Studio 2017\Projects\ReadWebsiteContent\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csprojResolveAssemblyReference.cache
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.exe.config
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.exe
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\bin\Debug\CompleteMovieArchiveKit.pdb
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csprojResolveAssemblyReference.cache
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.FormMain.resources
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.Properties.Resources.resources
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csproj.GenerateResource.Cache
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.csproj.CoreCompileInputs.cache
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.exe
+C:\Users\Egemen\Source\Repos\GrayMatterSolutions\CompleteMovieArchiveKit\obj\Debug\CompleteMovieArchiveKit.pdb

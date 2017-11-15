@@ -10,7 +10,6 @@ using System.Text.RegularExpressions;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
-using System.Threading;
 using System.ComponentModel;
 
 namespace CompleteMovieArchiveKit
@@ -219,9 +218,9 @@ namespace CompleteMovieArchiveKit
             };
             folderBrowserDialog.ShowDialog();
             SelectedPath = folderBrowserDialog.SelectedPath;
-            ShowEmptyFolders();
             if (!string.IsNullOrEmpty(SelectedPath))
             {
+                ShowEmptyFolders();
                 this.Enabled = false;
                 ProgressBar.Visible = true;
                 BackgroundWorkerFile.RunWorkerAsync();
